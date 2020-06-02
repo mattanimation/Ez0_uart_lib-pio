@@ -1,0 +1,24 @@
+{
+    "name": "Ezo_uart_lib",
+    "keywords": "Atlas Scientific, ezo, uart, atlas, scientific",
+    "description": "Library for using Atlas Scientific EZO devices in UART mode",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Atlas-Scientific/Ezo_uart_lib.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Atlas Scientific",
+        "email": "",
+        "url": "https://www.atlas-scientific.com/",
+        "maintainer": true
+      }
+    ],
+    "dependencies": [
+    ],
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
